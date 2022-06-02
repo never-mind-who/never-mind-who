@@ -12,11 +12,11 @@
     "I am not in danger, Skyler. I am the danger. A guy opens his door and gets shot and you think that of me? No. I am the one who knocks!" - W. White.
   </p>
   
-  👋 Hi, I’m @never-mind-who!
+  👋 ・** Hi, I’m @never-mind-who!**
   
-  ✔️・~Latest open source project - TEMA-TIC (https://github.com/never-mind-who/TEMA-TIC)~
+  ✔️・** Latest open source project - TEMA-TIC (https://github.com/never-mind-who/TEMA-TIC)**
   
-  🌱 I’m currently learning C++, JavaScript, Python.
+  🌱 ・** I’m currently learning C++, JavaScript, Python.**
   
   
   <p>
