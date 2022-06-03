@@ -4,7 +4,7 @@
   </h1>
   
   <p>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <a>
       <img src="https://raw.githubusercontent.com/never-mind-who/read-me/main/images/never-mind-who.png">
     </a>
     <br>
@@ -16,12 +16,13 @@
   ✔️・**Latest open source project - TEMA-TIC (https://github.com/never-mind-who/TEMA-TIC)**
   
   🌱 ・**I’m currently learning C++, JavaScript, Python.**
-  
-  
+
   <p>
     <img src="https://raw.githubusercontent.com/never-mind-who/read-me/main/images/POPULAR%20PROJECTS.png">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=never-mind-who&repo=TEMA-TIC" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=never-mind-who&repo=Vengeance" />
   </p>
   
   <p>
@@ -37,4 +38,4 @@
     <br>
     <img src="https://discord.c99.nl/widget/theme-3/307967196393504781.png" />
   </p>
-<div/>
+</div>
