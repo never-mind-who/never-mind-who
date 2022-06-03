@@ -38,8 +38,3 @@
     <br>
     <img src="https://discord.c99.nl/widget/theme-3/307967196393504781.png" />
   </p>
-<<<<<<< HEAD
-</div>
-=======
-</div>
->>>>>>> b2a2a8769ea36057f96cf888325a0e7775ad17ab
