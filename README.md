@@ -21,8 +21,6 @@
     <img src="https://raw.githubusercontent.com/never-mind-who/read-me/main/images/POPULAR%20PROJECTS.png">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=never-mind-who&repo=TEMA-TIC" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=never-mind-who&repo=Vengeance" />
   </p>
   
   <p>
