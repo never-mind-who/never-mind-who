@@ -16,6 +16,8 @@
   ✔️・**Latest open source project - TEMA-TIC (https://github.com/never-mind-who/TEMA-TIC)**
   
   🌱 ・**I’m currently learning C++, JavaScript, Python.**
+  
+  ⚡ ・**Fun fact: Kendrick Lamar > your favorite rapper**
 
   <p>
     <img src="https://raw.githubusercontent.com/never-mind-who/read-me/main/images/POPULAR%20PROJECTS.png">
