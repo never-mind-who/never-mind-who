@@ -13,7 +13,7 @@
   
   👋 ・**Hi, I’m @never-mind-who!**
   
-  ✔️・**Latest open source project - TEMA-TIC (https://github.com/never-mind-who/TEMA-TIC)**
+  ✔️・**Latest open source project - TEMA-TIC (https://github.com/never-mind-who/Osiris-2.0)**
   
   🌱 ・**I’m currently learning C++, JavaScript, Python.**
   
@@ -22,7 +22,7 @@
   <p>
     <img src="https://raw.githubusercontent.com/never-mind-who/read-me/main/images/POPULAR%20PROJECTS.png">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=never-mind-who&repo=TEMA-TIC" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=never-mind-who&repo=Osiris-2.0" />
   </p>
   
   <p>
