@@ -30,7 +30,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=never-mind-who&theme=dark&icon_color=fff&show_icons=true" alt="never-mind-who's github stats" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=never-mind-who&count_private=true&hide=procfile,css&theme=dark&border_color=fff&cache_seconds=1800&layout=compact&langs_count=10&  show_icons=True&custom_title=Most Used Coding Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=never-mind-who&count_private=true&hide=procfile,css&theme=dark&border_color=fff&cache_seconds=1800&layout=compact&langs_count=10&show_icons=True&custom_title=Most Used Coding Languages"/>
   </p>
   
   <p>
